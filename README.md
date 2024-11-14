@@ -1,6 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
 To implemnt the program of Sliding Window protocol.
+## Name : Dharshini S
+## Reg No : 212223110010
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
